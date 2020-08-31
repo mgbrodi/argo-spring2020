@@ -1,0 +1,5 @@
+namePrefix: spring2020-  # CHANGE
+commonLabels:
+  name: app
+resources:
+  - github.com/mgbrodi/spring-boot-web?ref=argo-istio
